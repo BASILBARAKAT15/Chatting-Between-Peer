@@ -1,75 +1,198 @@
-Peer-to-Peer Chatting Application
-This project implements a Peer-to-Peer Chatting Application using Java with UDP Socket Programming (Part 1) and extends it with TCP Socket Programming for client registration and server tracking (Part 2). The application includes a GUI with various interactive components and meets all specified requirements.
-Overview
+Socket API Project – CE Networks-1
+📌 Overview
+This project implements a Peer-to-Peer Chat Application in Java with both UDP (Part 1) and TCP + UDP Hybrid (Part 2) modes.
+The system is designed to simulate real-time communication between multiple clients, with a server managing user registration, status updates, and active client lists.
 
-Part 1: A non-blocking UDP-based chat application with features like timestamped messages, colored message display, message deletion, archiving, and logging.
-Part 2: Extends Part 1 by adding TCP client-server functionality for user registration, online user tracking, status management, file transfer, and additional logging.
+Part 1: UDP-based peer-to-peer chat with GUI, message archiving, and logging.
 
-Features
-Part 1
+Part 2: TCP server to track online users, handle authentication, and enable enhanced peer management while keeping UDP for actual chat.
 
-GUI with text boxes for IP addresses and port numbers, text areas for chat, and buttons for sending, deleting, and archiving messages.
-Timestamp added to each sent and received message.
-Sent messages in yellow, received messages in orange.
-Buttons to delete selected messages or all conversations, with deleted messages moved to an archive tab.
-Archived messages auto-removed after 2 minutes, with an option to restore them.
-Log file (chat_log.txt) recording all activities.
+🛠 Features
+Part 1 – UDP Peer-to-Peer Chat
+GUI with text boxes, buttons, dropdowns, and text areas.
 
-Part 2
+Input fields for Source IP/Port and Destination IP/Port.
 
-TCP Client for registration to a TCP Server, displaying a list of active clients.
-TCP Server with GUI showing active client list and option to add new users.
-Login/logout functionality with username/password validation (case-insensitive) from a credentials file.
-Unique text colors for each user.
-Status options (Active, Busy, Away) with automatic "Away" after 30 seconds of inactivity, reverting to "Active" on user activity.
-"Send to All" option.
-Chat history export to a text file.
-File transfer between peers with statistics (packets, file size, E2E delay, jitter).
-Display of last login time and time elapsed since login.
-Comprehensive log file for all events.
+Display sent and received messages in a conversation area.
 
-Requirements
+Timestamps for all messages.
 
-Java Development Kit (JDK) 8 or higher.
-Execution on different hosts (not on a single machine).
+Color-coded messages:
 
-Setup
+🟨 Yellow – Sent messages
 
-Clone the repository or copy the source files (ChatClient.java, TCPServer.java).
-Ensure the credentials file (users.txt) is in the project directory with the format:User Name
-Password
-Ali
-1234
-Saly
-A20B
-Aws
-ABcd
-Adam
-1Cb2
+🟧 Orange – Received messages
 
+Message management:
 
-Compile and run ChatClient.java on multiple machines with different IP addresses.
-Run TCPServer.java on one machine to manage client registration.
+Delete selected message(s).
 
-Usage
+Delete all conversation from both peers.
 
-Part 1: Enter source and destination IPs/ports, type messages, and use buttons for chat management.
-Part 2: Log in with valid credentials, select peers from the active list, set status, send files, and export chat history.
+Archive system:
 
-Files
+Deleted messages moved to archive.
 
-ChatClient.java: Main client application with UDP and TCP functionality.
-TCPServer.java: Server application tracking active clients.
-chat_log.txt: Log file for all activities.
-users.txt: Credentials file for login.
+Messages auto-deleted from archive after 2 minutes.
 
-Notes
+Messages can be restored from archive.
 
-Ensure ports (e.g., 6000, 6001) are not in use or inaccessible on the network.
-The application must be tested on different hosts as per requirements.
+Non-blocking code (Swing-friendly).
 
-Future Improvements
+Log file recording:
 
-Enhance GUI responsiveness.
-Add encryption for secure communication.
-Improve file transfer reliability.
+Send/receive events
+
+Deletions
+
+Archiving/restoring actions
+
+Part 2 – TCP Server & Client Integration
+TCP Client integrated into the UDP chat application.
+
+TCP Server maintains a list of active UDP clients.
+
+User authentication:
+
+Stored credentials in server-side file.
+
+Username/password validation (case-insensitive).
+
+Login success/failure messages.
+
+Display of active clients with:
+
+Username
+
+IP address
+
+Port number
+
+Send-to-all option.
+
+Color-coded usernames (different color per user).
+
+Status management:
+
+Active / Busy / Away
+
+Auto-set to Away after 30 seconds of inactivity.
+
+Keyboard/mouse activity returns status to Active.
+
+User management on server:
+
+Add new users via GUI.
+
+Prevent duplicate usernames.
+
+Last login timestamp display in client.
+
+Chat history export to text file.
+
+Extra File Transfer Task (Part 2)
+Peer-to-peer file sending:
+
+Browse local storage to select file.
+
+Default receive location: C:\ (configurable).
+
+Statistics:
+
+Packets sent/received
+
+File size
+
+End-to-end delay
+
+Delay jitter
+
+📂 Project Structure
+bash
+نسخ
+تحرير
+/src
+  ├── UDPChatApp.java        # Part 1 client code
+  ├── TCPServer.java         # Part 2 server code
+  ├── TCPClientHandler.java  # Server-side client handler
+  ├── Client.java            # Part 2 client (UDP+TCP integration)
+  └── utils/
+       ├── Logger.java       # Logging utility
+       ├── FileTransfer.java # File sending/receiving functions
+       └── Message.java      # Message object model
+/logs
+  └── chat.log               # Application log file
+/archive
+  └── archived_messages.txt  # Archived messages storage
+💻 How to Run
+Part 1 – UDP Chat
+Compile the Java source:
+
+bash
+نسخ
+تحرير
+javac UDPChatApp.java
+Start two instances of the client on different hosts or different IP/ports.
+
+Enter:
+
+Local IP & port
+
+Remote IP & port
+
+Click Start to open UDP socket.
+
+Type message → Send.
+
+Use Delete / Delete All / Archive as needed.
+
+Part 2 – TCP Server & Client
+Compile server:
+
+bash
+نسخ
+تحرير
+javac TCPServer.java
+java TCPServer
+Compile and start client:
+
+bash
+نسخ
+تحرير
+javac Client.java
+java Client
+Login with valid credentials from server-side file.
+
+Choose recipient from active list.
+
+Continue chat (UDP) while server updates status.
+
+📑 Logging
+The system maintains a human-readable log file (chat.log) including:
+
+Login/logout events
+
+Message sends/receives with content & timestamps
+
+Message deletions
+
+Archival & restore events
+
+Status changes
+
+📷 Sample GUI
+Part 1 – UDP Chat Window:
+(screenshot of two clients chatting)
+
+Part 2 – TCP Server Active Clients List:
+(screenshot of server GUI with online users)
+
+⚠ Notes
+Blocking code is not allowed in any part (all networking runs in background threads).
+
+The project must be tested on different hosts — not just localhost.
+
+For file transfer, large files may require fragmentation handling.
+
+✍ Authors
+Your Name – Student, CE Networks-1
