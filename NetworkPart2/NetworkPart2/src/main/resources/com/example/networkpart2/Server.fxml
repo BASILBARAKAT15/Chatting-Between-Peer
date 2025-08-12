@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.TextFlow?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="618.0" prefWidth="805.0" style="-fx-background-color: #f5f5f5;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.networkpart2.Server">
+   <children>
+      <TextField fx:id="Port" layoutX="31.0" layoutY="89.0" prefHeight="42.0" prefWidth="150.0" style="-fx-border-color: #bdc3c7; -fx-background-color: #ffffff; -fx-padding: 5px;" />
+      <Button layoutX="202.0" layoutY="89.0" mnemonicParsing="false" onAction="#onStart" prefHeight="46.0" prefWidth="150.0" style="-fx-background-color: #2980b9; -fx-text-fill: #ffffff; -fx-font-size: 16px; -fx-padding: 10px; -fx-background-radius: 5px;" text="Start Listening" />
+      <ChoiceBox fx:id="interfaceBox" layoutX="30.0" layoutY="176.0" prefHeight="27.0" prefWidth="340.0" style="-fx-background-color: #ffffff; -fx-border-color: #bdc3c7;" />
+      <Label layoutX="29.0" layoutY="58.0" prefHeight="26.0" prefWidth="142.0" style="-fx-font-family: 'Book Antiqua Bold Italic'; -fx-font-size: 20px; -fx-text-fill: #34495e;" text="Port Number:" />
+      <Label layoutX="31.0" layoutY="142.0" prefHeight="27.0" prefWidth="124.0" style="-fx-font-family: 'Book Antiqua Bold Italic'; -fx-font-size: 20px; -fx-text-fill: #34495e;" text="InterFace:" />
+      <Label layoutX="333.0" layoutY="14.0" prefHeight="56.0" prefWidth="166.0" style="-fx-font-family: 'Book Antiqua Bold Italic'; -fx-font-size: 44px; -fx-text-fill: #34495e;" text="Server" />
+      <TextFlow fx:id="serverMessages" layoutX="32.0" layoutY="221.0" prefHeight="277.0" prefWidth="340.0" style="-fx-background-color: #ffffff; -fx-border-color: #bdc3c7; -fx-border-radius: 10;" />
+      <Label layoutX="22.0" layoutY="524.0" prefHeight="15.0" prefWidth="78.0" style="-fx-font-family: 'Book Antiqua Bold Italic'; -fx-font-size: 23px; -fx-text-fill: #34495e;" text="Status :" />
+      <ListView fx:id="onlineUsers" layoutX="429.0" layoutY="176.0" prefHeight="278.0" prefWidth="318.0" style="-fx-background-color: #ffffff; -fx-border-color: #bdc3c7; -fx-border-radius: 10;" />
+      <Label fx:id="status" layoutX="116.0" layoutY="524.0" prefHeight="30.0" prefWidth="480.0" style="-fx-font-family: 'Book Antiqua Bold Italic'; -fx-font-size: 23px; -fx-text-fill: #34495e;" />
+      <Button fx:id="addUser" layoutX="429.0" layoutY="470.0" mnemonicParsing="false" onAction="#onAddUser" prefHeight="40.0" prefWidth="318.0" style="-fx-background-color: #2980b9; -fx-text-fill: #ffffff; -fx-font-size: 16px; -fx-padding: 10px; -fx-background-radius: 5px;" text="Add A New User" />
+      <Label layoutX="500.0" layoutY="120.0" style="-fx-font-family: 'Book Antiqua Bold Italic'; -fx-font-size: 29px; -fx-text-fill: #34495e;" text="Online Users" />
+      <ImageView fitHeight="46.0" fitWidth="45.0" layoutX="477.0" layoutY="20.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@./server (1).png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

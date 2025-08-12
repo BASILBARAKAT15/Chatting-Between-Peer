@@ -1,0 +1,68 @@
+.leftpane{
+-fx-background-color: #ffff;
+}
+.rightpane{
+    -fx-background-color:#ffff;
+}
+
+.signinpane{
+    -fx-background-color: #ffff;
+    -fx-border-radius: 15px;
+
+}
+.sidenavigation{
+        /* Set the border for the right, bottom, and top sides */
+        /* top right bottom left */
+        fx-background-radius: 0;  /* Adjust the radius according to your preference */
+        -fx-border-width: 1px 1px 1px 0;  /* top right bottom left */
+        -fx-border-color: #00004d;  /* You can adjust the color */
+        -fx-border-radius: 8px;  /* Optional: Also set border radius if you have a border */
+        -fx-background-color: #131217
+}
+.memberpane{
+    -fx-border-radius: 15px;
+    -fx-border-width: 2px;
+    -fx-border-color: #00004d;
+}
+
+.classpane {
+    -fx-background-color: #1d1c23;
+}
+
+.attendancepane {
+    -fx-background-radius: 2px;
+    -fx-background-color: #ffff;
+    -fx-border-radius: 15px;
+    -fx-border-width: 2px;
+}
+
+    .addattendancepane {
+        -fx-border-radius: 0px;
+        -fx-border-width: 2px;
+        -fx-border-color: #0e89b4;
+    }
+
+    .topattendancepane {
+        -fx-background-color: #ffff;
+        -fx-border-radius: 0px;
+        -fx-border-width: 2px;
+        /*-fx-border-color: #0e89b4;*/
+    }
+
+    .hourspane {
+        -fx-border-radius: 15px;
+        -fx-background-color: #ffff;
+        -fx-background-radius: 15px;
+    }
+
+.root {
+-fx-border-color: #000 ;
+    -fx-background-radius: 10; /* Set the background radius for sharp edges */
+}
+
+.staffpane{
+    -fx-background-color: #1c1b22;
+}
+
+
+

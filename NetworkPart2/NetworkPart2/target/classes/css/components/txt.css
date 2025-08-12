@@ -1,0 +1,135 @@
+.txt{
+
+    -fx-background-color: Black;
+    -fx-text-color:#000;
+    -fx-border-radius: 0px 0px 2px 0px;
+    -fx-border-color: #1c1b22;
+    -fx-font-weight: bold;
+    -fx-font-size: 12pt;
+    -fx-border-width:0px 0px 2px 0px;
+    -fx-border-style: bold;
+
+}
+
+.txt2{
+    -fx-background-color: Black;
+    -fx-text-color:#000;
+    -fx-font-weight: bold;
+    -fx-font-size: 12pt;
+
+
+
+
+}
+
+.txt3{
+    -fx-background-color:Black;
+    -fx-text-color:#1c1b22;
+    -fx-font-weight: bold;
+    -fx-font-size: 10pt;
+
+}
+.txt3:hover{
+    -fx-cursor: hand;
+}
+.txtmember{
+    -fx-background-color: transparent;
+    -fx-text-fill: Black;
+
+}
+.txt4 {
+    -fx-background-color: #131217;
+    -fx-text-fill: Black;
+    -fx-font-weight: bold italic;
+    -fx-font-size: 12pt;
+    -fx-background-radius: 0px;
+    -fx-border-width: 2px;
+    -fx-border-radius: 12px;
+}
+
+.txt5 {
+    -fx-background-color: #131217;
+    -fx-text-fill: Black;
+    -fx-font-weight: bold italic;
+    -fx-font-size: 12pt;
+    -fx-background-radius: 15px;
+    -fx-border-width: 2px;
+    -fx-border-radius: 12px;
+    -fx-border-color: #0e89b4;
+}
+.date-picker {
+    -fx-background-color: black;
+    -fx-font-size: 14px;
+    -fx-font-family: "Arial";
+    -fx-border-color:#0e89b4 ;
+}
+
+.date-picker .text-field {
+    -fx-font-size: 14px;
+    -fx-font-family: "Arial";
+    -fx-background-color: #FFFFFF; /* Background color */
+    -fx-text-fill: #000000; /* Text color */
+}
+
+.date-picker .arrow-button {
+    -fx-background-color: #CCCCCC; /* Color of the arrow button */
+}
+
+.date-picker-popup {
+    -fx-background-color: #FFFFFF; /* Popup background color */
+}
+
+.date-picker-popup .day-cell {
+    -fx-background-color: #ECECEC; /* Background color of day cells */
+    -fx-text-fill: #000000; /* Text color of day cells */
+}
+
+.date-picker-popup .day-cell:hover {
+    -fx-background-color: #B4B4B4; /* Hover background color of day cells */
+}
+
+.date-picker-popup .selected {
+    -fx-background-color: #3399FF; /* Background color of selected day */
+    -fx-text-fill: #FFFFFF; /* Text color of selected day */
+}
+
+.txtattendancesearch{
+    -fx-border-radius: 0px;
+    -fx-border-width: 2px;
+    -fx-border-color: #0e89b4;
+}
+.txt5{
+    -fx-border-width: 0 0 1 0; /* Set bottom border only */
+    -fx-border-color: #0e89b4; /* Set the border color */
+    -fx-padding: 0.5em; /* Adjust padding as needed */
+    -fx-background-color: #1c1b22;
+    -fx-text-fill: Black;
+    -fx-font-weight: bold italic;
+    -fx-font-size: 10pt;
+    -fx-background-radius: 0px;
+    -fx-border-radius: 0px;
+}
+/* styles.css */
+
+.styled-date-picker .text-field {
+    -fx-border-color:#0e89b4;
+    -fx-background-color: #1c1b22; /* Change background color */
+    -fx-text-fill: Black; /* Change text color */
+    -fx-font-weight: bold italic;
+    -fx-font-size: 10pt;
+     /* Change font size */
+    /* Add more customizations as needed */
+}
+
+.styled-date-picker .arrow-button {
+    -fx-background-color: red; /* Change arrow color */
+    -fx-shape: "M 0 0 L 5 5 L 10 0 Z"; /* Change arrow shape */
+    /* Add more customizations as needed */
+}
+
+.text-field {
+    -fx-border-width: 0 0 1 0; /* Set bottom border only */
+    -fx-border-color: #0e89b4; /* Set the border color */
+    -fx-padding: 0.5em; /* Adjust padding as needed */
+}
+

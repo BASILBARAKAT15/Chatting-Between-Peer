@@ -1,0 +1,31 @@
+
+.date-picker {
+    -fx-font-size: 14px; /* Set the font size */
+    -fx-prompt-text-fill: #555555; /* Set the prompt text color */
+    -fx-background-color: #0e89b4;
+}
+
+.date-picker .arrow-button {
+    -fx-background-color: #1d1c23; /* Set the arrow button background color */
+}
+
+.date-picker .arrow-button:hover {
+    -fx-background-color: #1d1c23; /* Set the hover background color for the arrow button */
+}
+
+.date-picker .arrow-button:pressed {
+    -fx-background-color: #1d1c23; /* Set the pressed background color for the arrow button */
+}
+
+.date-picker .text-field {
+    -fx-control-inner-background: #1d1c23 ;
+    -fx-background-radius: 10 10 10 10;
+    -fx-background-color: #1d1c23;
+
+}
+
+.date-picker .text-field:hover {
+    -fx-background-color: #f0f0f0; /* Set the hover background color for the text field */
+    -fx-border-color:#1d1c23 ;
+}
+

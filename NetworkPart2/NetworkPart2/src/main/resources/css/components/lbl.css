@@ -1,0 +1,24 @@
+.lbl{
+    -fx-text-fill:#000 ;
+    -fx-font-style:Bold ;
+    -fx-font-family: Impact;
+    -fx-font-size:20px ;
+}
+.lbl5{
+    -fx-text-fill:#ffff ;
+    -fx-font-style:Bold ;
+    -fx-background-color:#131217;
+    -fx-font-family: Impact;
+    -fx-font-size:20px ;
+}
+.lbl1{
+    -fx-text-fill:black ;
+    -fx-font-style:Bold ;
+    -fx-font-family: Impact;
+}
+.text-area {
+    -fx-text-fill: Black; /* Set text color */
+    -fx-background-color: lightgray; /* Set background color */
+    -fx-control-inner-background: lightgray; /* Set inner background color */
+    -fx-control-inner-background-alt: lightgray; /* Set alternative inner background color */
+}

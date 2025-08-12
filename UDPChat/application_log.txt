@@ -1,0 +1,158 @@
+2025-08-10 16:19:01 - Saved last login for HP -> 2025-08-10 16:19:01
+2025-08-10 16:19:01 - Application started by HP
+2025-08-10 16:34:47 - Loaded last login for HP -> 2025-08-10 16:19:01
+2025-08-10 16:34:47 - Saved last login for HP -> 2025-08-10 16:34:47
+2025-08-10 16:34:47 - Application started by HP
+2025-08-10 16:35:04 - Loaded last login for HP -> 2025-08-10 16:34:47
+2025-08-10 16:35:04 - Saved last login for HP -> 2025-08-10 16:35:04
+2025-08-10 16:35:04 - Application started by HP
+2025-08-10 16:35:36 - Sent FILE_START to 192.168.1.2:6000 name=proj1_rep.pdf
+2025-08-10 16:41:02 - Loaded last login for HP -> 2025-08-10 16:35:04
+2025-08-10 16:41:02 - Saved last login for HP -> 2025-08-10 16:41:02
+2025-08-10 16:41:03 - Application started by HP
+2025-08-10 16:43:58 - Sent message to 192.168.1.2:6000 -> [16:43:58] HP: HI
+2025-08-10 16:44:13 - Exported chat history to C:\Users\HP\IdeaProjects\UDPChat\chat_history_HP_20250810_164411.txt
+2025-08-10 16:44:37 - Sent FILE_START to 192.168.1.2:6000 name=HW#2.pdf
+2025-08-10 16:50:53 - Loaded last login for HP -> 2025-08-10 16:41:02
+2025-08-10 16:50:53 - Saved last login for HP -> 2025-08-10 16:50:53
+2025-08-10 16:50:53 - Application started by HP
+2025-08-10 16:51:24 - Sent message to 192.168.68.65:6000 -> [16:51:24] HP: HI
+2025-08-10 17:07:17 - Loaded last login for HP -> 2025-08-10 16:50:53
+2025-08-10 17:07:17 - Saved last login for HP -> 2025-08-10 17:07:17
+2025-08-10 17:07:17 - Application started by HP
+2025-08-10 17:08:04 - Loaded last login for HP -> 2025-08-10 17:07:17
+2025-08-10 17:08:04 - Saved last login for HP -> 2025-08-10 17:08:04
+2025-08-10 17:08:04 - Application started by HP
+2025-08-10 17:08:14 - Sent message to 192.168.68.65:6000 -> [17:08:14] HP: HI
+2025-08-10 17:11:29 - Loaded last login for HP -> 2025-08-10 17:08:04
+2025-08-10 17:11:29 - Saved last login for HP -> 2025-08-10 17:11:29
+2025-08-10 17:11:29 - Application started by HP
+2025-08-10 17:11:36 - Sent message to 192.168.68.65:6000 -> [17:11:36] HP: HI
+2025-08-10 17:24:31 - Loaded last login for HP -> 2025-08-10 17:11:29
+2025-08-10 17:24:31 - Saved last login for HP -> 2025-08-10 17:24:31
+2025-08-10 17:24:31 - Application started by HP
+2025-08-10 17:25:36 - Loaded last login for HP -> 2025-08-10 17:24:31
+2025-08-10 17:25:36 - Saved last login for HP -> 2025-08-10 17:25:36
+2025-08-10 17:25:36 - Application started by HP
+2025-08-10 17:26:30 - Send failed: Network is unreachable: sendto
+2025-08-10 17:26:39 - Send failed: Network is unreachable: sendto
+2025-08-10 17:27:50 - Loaded last login for HP -> 2025-08-10 17:25:36
+2025-08-10 17:27:50 - Saved last login for HP -> 2025-08-10 17:27:50
+2025-08-10 17:27:50 - Application started by HP
+2025-08-10 17:27:59 - Sent message to 100.69.38.8:6000 -> [17:27:59] HP: HI
+2025-08-10 17:30:13 - Sent message to 100.69.38.8:6000 -> [17:30:13] HP: HI
+2025-08-10 17:31:01 - Loaded last login for HP -> 2025-08-10 17:27:50
+2025-08-10 17:31:01 - Saved last login for HP -> 2025-08-10 17:31:01
+2025-08-10 17:31:01 - Application started by HP
+2025-08-10 17:31:07 - Send failed: Network is unreachable: sendto
+2025-08-10 17:51:17 - Loaded last login for HP -> 2025-08-10 17:31:01
+2025-08-10 17:51:17 - Saved last login for HP -> 2025-08-10 17:51:17
+2025-08-10 17:51:17 - Application started by HP
+2025-08-10 17:51:31 - Sent message to 100.69.38.8:6000 -> [17:51:31] HP: HI
+2025-08-10 17:52:06 - Loaded last login for HP -> 2025-08-10 17:51:17
+2025-08-10 17:52:06 - Saved last login for HP -> 2025-08-10 17:52:06
+2025-08-10 17:52:06 - Application started by HP
+2025-08-10 17:52:14 - Sent message to 100.69.38.8:6000 -> [17:52:14] HP: HI
+2025-08-10 18:38:27 - Loaded last login for HP -> 2025-08-10 17:52:06
+2025-08-10 18:38:27 - Saved last login for HP -> 2025-08-10 18:38:27
+2025-08-10 18:38:27 - Application started by HP
+2025-08-10 18:38:36 - Sent message to 100.69.38.8:6000 -> [18:38:36] HP: Hi
+2025-08-10 19:04:46 - Loaded last login for HP -> 2025-08-10 18:38:27
+2025-08-10 19:04:46 - Saved last login for HP -> 2025-08-10 19:04:46
+2025-08-10 19:04:46 - Application started by HP
+2025-08-10 19:04:53 - Sent message to 100.69.38.8:6000 -> [19:04:53] HP: HI
+2025-08-10 19:34:17 - Loaded last login for HP -> 2025-08-10 19:04:46
+2025-08-10 19:34:17 - Saved last login for HP -> 2025-08-10 19:34:17
+2025-08-10 19:34:17 - Application started by HP
+2025-08-10 19:35:49 - Loaded last login for HP -> 2025-08-10 19:34:17
+2025-08-10 19:35:49 - Saved last login for HP -> 2025-08-10 19:35:49
+2025-08-10 19:35:49 - Application started by HP
+2025-08-10 19:36:21 - Sent message to 192.168.193.164:6000 -> [19:36:21] HP: HI
+2025-08-10 19:39:14 - Loaded last login for HP -> 2025-08-10 19:35:49
+2025-08-10 19:39:14 - Saved last login for HP -> 2025-08-10 19:39:14
+2025-08-10 19:39:14 - Application started by HP
+2025-08-10 19:39:28 - Sent message to 192.168.193.164:6000 -> [19:39:28] HP: HI
+2025-08-10 19:42:48 - Sent message to 192.168.193.164:6000 -> [19:42:48] HP: hi
+2025-08-10 19:42:53 - Received message from 192.168.193.164:6000 -> [19:43:05] ASUS: jjjjjjj
+2025-08-10 19:43:54 - Sent FILE_START to 192.168.193.164:6000 name=HW#2.pdf
+2025-08-10 19:52:17 - Loaded last login for HP -> 2025-08-10 19:39:14
+2025-08-10 19:52:17 - Saved last login for HP -> 2025-08-10 19:52:17
+2025-08-10 19:52:17 - Application started by HP
+2025-08-10 19:54:08 - Loaded last login for HP -> 2025-08-10 19:52:17
+2025-08-10 19:54:08 - Saved last login for HP -> 2025-08-10 19:54:08
+2025-08-10 19:54:08 - Application started by HP
+2025-08-10 19:56:14 - Sent message to 192.168.193.164:6000 -> [19:56:14] HP: HOW ARY DOUING
+2025-08-10 19:56:25 - Received message from 192.168.193.164:6000 -> [19:56:37] ASUS: im finnnne
+2025-08-10 19:56:33 - Sent message to 192.168.193.164:6000 -> [19:56:33] HP: COOOOOLL
+2025-08-10 19:56:49 - Sent message to 192.168.193.164:6000 -> [19:56:49] HP: NICE !
+2025-08-10 19:57:08 - Received message from 192.168.193.164:6000 -> [19:57:21] ASUS: everything works good?
+2025-08-10 19:57:25 - Sent message to 192.168.193.164:6000 -> [19:57:25] HP: YAH EVETHING
+2025-08-10 19:57:32 - Received message from 192.168.193.164:6000 -> [19:57:44] ASUS: nice
+2025-08-10 19:57:39 - Exported chat history to C:\Users\HP\IdeaProjects\UDPChat\chat_history_HP_20250810_195736.txt
+2025-08-10 19:58:14 - Exported chat history to C:\Users\HP\IdeaProjects\UDPChat\chat_history_HP_20250810_195812.txt
+2025-08-10 20:10:25 - Loaded last login for HP -> 2025-08-10 19:54:08
+2025-08-10 20:10:25 - Saved last login for HP -> 2025-08-10 20:10:25
+2025-08-10 20:10:25 - Application started by HP
+2025-08-10 20:25:11 - Loaded last login for HP -> 2025-08-10 20:10:25
+2025-08-10 20:25:11 - Saved last login for HP -> 2025-08-10 20:25:11
+2025-08-10 20:25:11 - Application started by HP
+2025-08-10 20:25:19 - Sent message to 192.168.193.164:6000 -> [20:25:19] HP: HI
+2025-08-10 20:25:41 - Received message from 192.168.193.164:6000 -> [20:25:53] ASUS: zabaat
+2025-08-10 20:25:52 - Sent message to 192.168.193.164:6000 -> [20:25:52] HP: tmam
+2025-08-10 20:26:01 - Sent message to 192.168.193.164:6000 -> [20:26:01] HP: greb
+2025-08-10 20:26:09 - Received message from 192.168.193.164:6000 -> [20:26:21] ASUS: tamaaaaaaam
+2025-08-10 20:26:18 - Sent message to 192.168.193.164:6000 -> [20:26:18] HP: bas adlet sater
+2025-08-10 20:26:27 - Received message from 192.168.193.164:6000 -> [20:26:40] ASUS: part1 done?
+2025-08-10 20:26:56 - Received message from 192.168.193.164:6000 -> [20:27:09] ASUS: khalas bdnash n3dl
+2025-08-10 20:27:03 - Received message from 192.168.193.164:6000 -> [20:27:16] ASUS: mneeh heek
+2025-08-10 20:27:23 - Sent message to 192.168.193.164:6000 -> [20:27:23] HP: tamam hak mneh
+2025-08-10 20:27:42 - Sent message to 192.168.193.164:6000 -> [20:27:42] HP: buyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+2025-08-10 21:22:57 - Loaded last login for HP -> 2025-08-10 20:25:11
+2025-08-10 21:22:57 - Saved last login for HP -> 2025-08-10 21:22:57
+2025-08-10 21:22:57 - Application started by HP
+2025-08-10 21:24:12 - Loaded last login for HP -> 2025-08-10 21:22:57
+2025-08-10 21:24:12 - Saved last login for HP -> 2025-08-10 21:24:12
+2025-08-10 21:24:12 - Application started by HP
+2025-08-10 21:24:21 - Sent message to 192.168.193.164:6000 -> [21:24:21] HP: Hi
+2025-08-11 11:35:06 - Loaded last login for HP -> 2025-08-10 21:24:12
+2025-08-11 11:35:06 - Saved last login for HP -> 2025-08-11 11:35:06
+2025-08-11 11:35:06 - Application started by HP
+2025-08-11 11:35:14 - Sent message to 192.168.193.164:6000 -> [11:35:14] HP: HI
+2025-08-11 13:05:31 - Loaded last login for HP -> 2025-08-11 11:35:06
+2025-08-11 13:05:31 - Saved last login for HP -> 2025-08-11 13:05:31
+2025-08-11 13:05:31 - Application started by HP
+2025-08-11 13:05:42 - Sent message to 192.168.193.164:6000 -> [13:05:42] HP: HI
+2025-08-11 13:05:59 - Exported chat history to C:\Users\HP\IdeaProjects\UDPChat\chat_history_HP_20250811_130558.txt
+2025-08-12 12:29:48 - Loaded last login for HP -> 2025-08-11 13:05:31
+2025-08-12 12:29:48 - Saved last login for HP -> 2025-08-12 12:29:48
+2025-08-12 12:29:48 - Application started by HP
+2025-08-12 12:31:11 - Sent message to 192.168.193.164:6000 -> [12:31:11] HP: Hi
+2025-08-12 12:31:21 - Received message from 192.168.193.164:6000 -> [12:31:34] ASUS: hiii
+2025-08-12 12:31:38 - Deleted all messages
+2025-08-12 12:32:38 - Sent message to 192.168.193.164:6000 -> [12:32:38] HP: HI
+2025-08-12 12:32:45 - Deleted message: [12:32:38] HP: HI
+2025-08-12 12:32:46 - Deleted message: [12:32:38] HP: HI
+2025-08-12 12:32:47 - Deleted message: [12:32:38] HP: HI
+2025-08-12 12:32:47 - Deleted message: [12:32:38] HP: HI
+2025-08-12 12:32:48 - Deleted message: [12:32:38] HP: HI
+2025-08-12 12:32:55 - Deleted message: [12:32:38] HP: HI
+2025-08-12 12:32:59 - Deleted message: [12:32:38] HP: HI
+2025-08-12 12:33:04 - Restored message: [12:32:38] HP: HI
+2025-08-12 12:33:06 - Deleted message: [12:32:38] HP: HI
+2025-08-12 12:33:18 - Deleted all messages
+2025-08-12 12:33:41 - Loaded last login for HP -> 2025-08-12 12:29:48
+2025-08-12 12:33:41 - Saved last login for HP -> 2025-08-12 12:33:41
+2025-08-12 12:33:41 - Application started by HP
+2025-08-12 12:34:08 - Sent message to 192.168.193.164:6000 -> [12:34:08] HP: Hi MY Name Basil Barakat
+2025-08-12 12:34:22 - Received message from 192.168.193.164:6000 -> [12:34:35] ASUS: hello my name is hosni badran
+2025-08-12 12:34:47 - Sent message to 192.168.193.164:6000 -> [12:34:47] HP: My   Number is 12217132 and You?
+2025-08-12 12:35:03 - Received message from 192.168.193.164:6000 -> [12:35:16] ASUS: mine is 12217089 .
+2025-08-12 12:35:20 - Sent message to 192.168.193.164:6000 -> [12:35:20] HP: Great !
+2025-08-12 12:35:23 - Received message from 192.168.193.164:6000 -> [12:35:36] ASUS: lets delete?
+2025-08-12 12:35:50 - Sent message to 192.168.193.164:6000 -> [12:35:50] HP: This is UDB Chat Between peers
+2025-08-12 12:36:13 - Exported chat history to C:\Users\HP\IdeaProjects\UDPChat\chat_history_HP_20250812_123610.txt
+2025-08-12 12:36:13 - Received message from 192.168.193.164:6000 -> [12:36:25] ASUS: yes it is
+2025-08-12 12:36:32 - Deleted all messages
+2025-08-12 12:44:35 - Loaded last login for HP -> 2025-08-12 12:33:41
+2025-08-12 12:44:35 - Saved last login for HP -> 2025-08-12 12:44:35
+2025-08-12 12:44:35 - Application started by HP

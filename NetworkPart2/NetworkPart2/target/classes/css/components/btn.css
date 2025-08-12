@@ -1,0 +1,65 @@
+.btn {
+    -fx-background-color: #134f5c;
+    -fx-text-fill: white;
+    -fx-font-weight: bold italic;
+    -fx-font-size: 12pt;
+    -fx-background-radius: 15px;
+    -fx-cursor: hand;
+    -fx-border-width: 1px;
+}
+.btn:hover{
+    -fx-cursor: hand;
+}
+.btn:pressed{
+    -fx-background-color:  #134f5c;
+}
+.btnlogin{
+    -fx-background-color:  #134f5c;
+    -fx-text-fill: white;
+    -fx-font-weight: bold italic;
+    -fx-font-size: 12pt;
+    -fx-border-radius: 15px;
+
+    -fx-background-radius: 15px;
+    -fx-cursor: hand;
+    -fx-border-width: 15px;
+}
+.btn3 {
+    -fx-background-color:  #134f5c;
+    -fx-text-fill: white;
+    -fx-border-color: #000;
+    -fx-font-weight: bold ;
+    -fx-font-size: 12pt;
+    -fx-background-radius: 15px;
+    -fx-cursor: hand;
+    -fx-border-width: 2px;
+    -fx-border-radius: 12px;
+}
+.btn3:hover{
+    -fx-cursor: hand;
+    /*-fx-border-radius: 15px;*/
+    -fx-background-color:  #134f5c;
+    -fx-text-fill: #fff;
+    -fx-scale-x: 1.1;
+    -fx-scale-y: 1.1;
+}
+.btnaddattendance{
+    -fx-background-color: #0e89b4;
+    -fx-text-fill: black;
+
+    /*-fx-border-color: #0e89b4;*/
+    -fx-font-weight: bold italic;
+    -fx-font-size: 10pt;
+    -fx-background-radius: 10px;
+    -fx-cursor: hand;
+    -fx-border-width: 2px;
+    -fx-border-radius: 10px;
+}
+
+
+
+.btnaddattendance:hover{
+    -fx-cursor: hand;
+    -fx-scale-x: 1.1;
+    -fx-scale-y: 1.1;
+}

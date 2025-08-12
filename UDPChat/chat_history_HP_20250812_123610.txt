@@ -1,0 +1,7 @@
+12:34:08 [12:34:08] HP: Hi MY Name Basil Barakat
+12:34:22 [12:34:35] ASUS: hello my name is hosni badran
+12:34:47 [12:34:47] HP: My   Number is 12217132 and You?
+12:35:03 [12:35:16] ASUS: mine is 12217089 .
+12:35:20 [12:35:20] HP: Great !
+12:35:23 [12:35:36] ASUS: lets delete?
+12:35:50 [12:35:50] HP: This is UDB Chat Between peers

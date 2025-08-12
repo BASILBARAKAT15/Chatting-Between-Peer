@@ -1,0 +1,8 @@
+.choice-box {
+    -fx-background-color: black;
+    -fx-border-color: #0e89b4;
+    -fx-border-radius: 3;
+    -fx-mark-color: #0e89b4; // arrow color
+}
+
+   .choice-box > .label { -fx-text-fill: white; }

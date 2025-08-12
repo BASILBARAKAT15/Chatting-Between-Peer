@@ -1,0 +1,95 @@
+#tabPane{
+    -fx-tab-min-width: 25em;
+    -fx-tab-max-width: 25em;
+    -fx-tab-min-height: 3em;
+    -fx-tab-max-height: 3em;
+    -fx-padding: 0 -1 -1 0;
+}
+
+.tab-pane > .tab-header-area {
+    -fx-padding: 7 0 7 0; /* Adjust the padding to increase/decrease the height */
+    -fx-padding: 0; /* Remove padding for the tab header area */
+
+}
+
+.tab .tab-label {
+    -fx-background-color: transparent;
+    -fx-alignment: CENTER;
+    -fx-text-fill: #EBEAF0;
+
+}
+
+.tab:selected .tab-label {
+    -fx-background-color: transparent;
+    -fx-alignment: CENTER;
+    -fx-text-fill: #0e89b4;
+
+}
+
+/* Styling the Tabs */
+.tab {
+    -fx-background-insets: 10;
+    -fx-background-radius: 0;
+    -fx-padding: 0 0 0 0;
+}
+.tab .tab-label {
+    -fx-font-size: 24;
+    -fx-text-fill: #d8d3ce;
+    -fx-font-weight: bold;
+}
+
+
+
+/* Styling the selected Tab */
+.tab:selected {
+
+    -fx-background-color: #FAFCFB;
+    -fx-background-insets: 0.0;
+    -fx-background-radius: 5 5 0 0;
+    -fx-border-width:5 0 0 0;
+}
+.tab:focused {
+    -fx-focus-color: transparent;
+}
+
+
+.tab-pane:bottom > .tab-header-background{
+    -fx-focus-color: transparent;
+}
+
+
+/* Styling the TabPane */
+.tab-pane {
+    -fx-tab-min-width: 120px;
+}
+
+/* Styling the Tabs */
+.tab {
+    -fx-background-color: #131217; /* Green color */
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+}
+
+/* Styling the selected Tab */
+.tab:selected {
+    -fx-background-color: white; /* Darker green color */
+}
+
+/* Styling the Tab Content Area */
+.tab-pane > .tab-content-area {
+    -fx-background-color: white ; /* Light gray color */
+}
+
+/* Styling the Tab Headers Area */
+.tab-header-area {
+    -fx-background-color: #131217; /* Dark background color */
+}
+
+/* Styling the Tab Header Background */
+.tab-header-background {
+    -fx-background-color: #131217;
+    -fx-background-radius: 15 0 0 0 ;
+}
+
+
+

@@ -1,0 +1,5 @@
+.text-field {
+    -fx-border-width: 0 0 1 0; /* Set bottom border only */
+    -fx-border-color: #134f5c /* Set the border color */
+    -fx-padding: 0.5em; /* Adjust padding as needed */
+}

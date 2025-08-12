@@ -1,0 +1,32 @@
+.table-view {
+    -fx-background-color: black;
+    -fx-border-color: #0e89b4;
+    -fx-border-radius: 8px;
+    -fx-text-fill: white;
+}
+.table-row-cell {
+    -fx-background-color: transparent;
+    -fx-table-cell-border-color: transparent;
+}
+
+
+.table-view-column {
+    -fx-background-color:  #1d1c23;
+    -fx-border-color: #0e89b4;
+    -fx-background-insets: 0 0 0 0;
+    -fx-border-width: 0px 0px 0px 0px;
+
+}
+.table-view .column-header .table-view .filter{
+    -fx-size:50px;
+    -fx-border-width: 0 0 10 0;
+    -fx-background-color:  #1d1c23;
+}
+.table-view .column-header .label{
+    -fx-text-fill :white;
+    -fx-text-alignment: center;
+
+}
+.table-view .table-cell {
+    -fx-text-fill: white; /* Add this line to set the text color */
+}

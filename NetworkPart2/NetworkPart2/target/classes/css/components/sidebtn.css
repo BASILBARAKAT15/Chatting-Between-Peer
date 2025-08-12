@@ -1,0 +1,18 @@
+.btn {
+    -fx-text-fill: #bdbdbd;
+    -fx-background-color: #131217 ;
+    -fx-text-alignment: right;
+    -fx-font-size: 10pt;
+    -fx-cursor: hand;
+    -fx-font-weight: default ;
+}
+
+.btn:hover {
+    -fx-background-color:#1d1c23;
+    -fx-border-color: black;
+
+    -fx-border-radius: 15px;
+    -fx-font-weight: bold;
+    -fx-font-size:18;
+
+}

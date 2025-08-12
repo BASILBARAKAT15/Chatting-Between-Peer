@@ -1,0 +1,54 @@
+[2025-08-12 10:19:20] Warning: receiveDir TextField is not initialized in FXML
+[2025-08-12 10:19:27] Warning: receiveDir TextField is not initialized in FXML
+[2025-08-12 10:19:45] Warning: receiveDir TextField is not initialized in FXML
+[2025-08-12 10:19:45] Warning: receiveDir TextField is not initialized in FXML
+[2025-08-12 10:20:59] Warning: receiveDir TextField is not initialized in FXML
+[2025-08-12 10:20:59] Warning: receiveDir TextField is not initialized in FXML
+[2025-08-12 10:21:14] Warning: receiveDir TextField is not initialized in FXML
+[2025-08-12 10:21:14] Warning: receiveDir TextField is not initialized in FXML
+[2025-08-12 10:21:48] New user registered: Basil
+[2025-08-12 10:25:41] Warning: receiveDir TextField is not initialized in FXML
+[2025-08-12 10:25:41] Warning: receiveDir TextField is not initialized in FXML
+[2025-08-12 10:27:13] Warning: receiveDir TextField is not initialized in FXML
+[2025-08-12 10:27:13] Warning: receiveDir TextField is not initialized in FXML
+[2025-08-12 10:27:44] Login: Basil
+[2025-08-12 10:28:33] Status update for Basil: Away
+[2025-08-12 11:47:08] Warning: receiveDir TextField is not initialized in FXML
+[2025-08-12 11:47:43] Login: Basil
+[2025-08-12 11:49:06] Status update for Basil: Away
+[2025-08-12 11:51:20] Status update for Basil: Active
+[2025-08-12 11:51:52] Status update for Basil: Away
+[2025-08-12 11:53:42] Status update for Basil: Active
+[2025-08-12 11:54:35] Status update for Basil: Away
+[2025-08-12 11:58:24] Status update for Basil: Active
+[2025-08-12 11:58:55] Status update for Basil: Away
+[2025-08-12 11:59:02] Status update for Basil: Active
+[2025-08-12 11:59:21] New user registered: hosni
+[2025-08-12 12:00:55] Status update for Basil: Away
+[2025-08-12 12:00:59] Status update for Basil: Active
+[2025-08-12 12:01:34] Status update for Basil: Away
+[2025-08-12 12:01:36] Status update for Basil: Active
+[2025-08-12 12:02:52] Status update for Basil: Away
+[2025-08-12 12:03:25] Status update for Basil: Active
+[2025-08-12 12:04:09] Status update for Basil: Away
+[2025-08-12 12:05:07] Status update for Basil: Active
+[2025-08-12 12:05:48] Status update for Basil: Away
+[2025-08-12 12:10:20] Status update for Basil: Active
+[2025-08-12 12:11:18] Status update for Basil: Away
+[2025-08-12 12:11:48] Status update for Basil: Active
+[2025-08-12 12:12:21] Status update for Basil: Away
+[2025-08-12 12:12:45] Status update for Basil: Active
+[2025-08-12 12:13:56] Status update for Basil: Away
+[2025-08-12 12:14:22] Status update for Basil: Active
+[2025-08-12 12:14:55] Status update for Basil: Away
+[2025-08-12 12:14:58] Status update for Basil: Active
+[2025-08-12 12:15:28] Status update for Basil: Away
+[2025-08-12 12:18:05] Status update for Basil: Active
+[2025-08-12 12:18:35] Status update for Basil: Away
+[2025-08-12 12:22:20] Status update for Basil: Active
+[2025-08-12 12:22:51] Status update for Basil: Away
+[2025-08-12 12:23:12] Status update for Basil: Active
+[2025-08-12 12:24:28] Warning: receiveDir TextField is not initialized in FXML
+[2025-08-12 12:25:50] Warning: receiveDir TextField is not initialized in FXML
+[2025-08-12 12:26:53] Login: Basil
+[2025-08-12 12:27:43] Status update for Basil: Away

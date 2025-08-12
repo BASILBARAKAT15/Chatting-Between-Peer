@@ -1,0 +1,10 @@
+.chart-pie-label{
+    -fx-font-size: 14;
+    -fx-fill : #0e89b4;
+}
+.default-color0.chart-pie{
+    -fx-pie-color: #ffffff;
+}
+.default-color1.chart-pie{
+    -fx-pie-color: #addff5;
+}
